@@ -2,7 +2,7 @@
 # 🌌 여백: 문헌정보학과 전공동아리
 
 <p align="center">
-  <img src="https://.png" alt="여백 로고" width="400"/>
+  <img src="gomdol.png" alt="여백 로고" width="400"/>
 </p>
 
 > ✨ 0과 1 사이, 지식의 '여백'을 채우다!
