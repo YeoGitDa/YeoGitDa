@@ -2,10 +2,11 @@
 # 🌌 여백: 문헌정보학과 전공동아리
 
 <p align="center">
-  <img src="gomdol.png" alt="여백 로고" width="400"/>
+<img width="1024" height="1024" alt="강아지상담원" src="https://github.com/user-attachments/assets/648d6122-eca3-4e3b-b91b-dc96c15c9fc2" />
 </p>
 
 > ✨ 0과 1 사이, 지식의 '여백'을 채우다!
+
 
 '여백'은 문헌정보학과 학생들이 모여 정보의 바다를 항해하고,  
 지혜의 시스템을 구축하며, 함께 성장하는 이야기입니다.
