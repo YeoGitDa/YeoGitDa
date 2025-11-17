@@ -2,8 +2,9 @@
 # 🌌 여백: 문헌정보학과 전공동아리
 
 <p align="center">
-<img width="1024" height="1024" alt="강아지상담원" src="https://github.com/user-attachments/assets/648d6122-eca3-4e3b-b91b-dc96c15c9fc2" width="200" height="100"/>
+<img width="400" height="400" alt="강아지상담원" src="https://github.com/user-attachments/assets/648d6122-eca3-4e3b-b91b-dc96c15c9fc2" />
 </p>
+
 
 > ✨ 0과 1 사이, 지식의 '여백'을 채우다!
 
